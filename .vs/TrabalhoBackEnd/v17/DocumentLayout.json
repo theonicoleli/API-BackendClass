@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\isecurity\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:isecurity\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\tests\\services\\roleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:tests\\services\\roleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:tests\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\trabalhobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:trabalhobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\models\\sortdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:models\\sortdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\bll\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:bll\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\idal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:idal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\dal\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:dal\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\idal\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:idal\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\models\\sortdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|solutionrelative:models\\sortdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCEF94EC-5D36-4AFC-BB1F-368F1CD96814}|TrabalhoBackEnd.csproj|c:\\users\\theo nicoleli\\desktop\\api-dotnet\\trabalhobackend\\models\\responses\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,23 +118,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "Models\\Users.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Users.cs",
-              "RelativeToolTip": "Models\\Users.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAWAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwFQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:51:33.904Z"
+              "WhenOpened": "2024-10-13T17:48:08.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\ISecurity\\IJwtService.cs",
+              "RelativeDocumentMoniker": "ISecurity\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\ISecurity\\IJwtService.cs",
+              "RelativeToolTip": "ISecurity\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:12:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\IDAL\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "IDAL\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\IDAL\\IUserRepository.cs",
+              "RelativeToolTip": "IDAL\\IUserRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:56:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\IDAL\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "IDAL\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\IDAL\\IRoleRepository.cs",
+              "RelativeToolTip": "IDAL\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:52:01.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Tests\\Services\\RoleServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\RoleServiceTests.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Tests\\Services\\RoleServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\RoleServiceTests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:08:16.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Security\\Jwt.cs",
+              "RelativeDocumentMoniker": "Security\\Jwt.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Security\\Jwt.cs",
+              "RelativeToolTip": "Security\\Jwt.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:19:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\UserController.cs",
+              "RelativeToolTip": "Controller\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:17:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Tests\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Tests\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "Tests\\Services\\UserServiceTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:15:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:03:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:34:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\RoleService.cs",
+              "RelativeDocumentMoniker": "BLL\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\RoleService.cs",
+              "RelativeToolTip": "BLL\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:16.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controller\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\RoleController.cs",
+              "RelativeToolTip": "Controller\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:19:42.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Roles.cs",
               "RelativeDocumentMoniker": "Models\\Roles.cs",
@@ -130,7 +290,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\RoleRepository.cs",
+              "RelativeToolTip": "DAL\\RoleRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:18:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T15:05:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Errors\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Errors\\BadRequestException.cs",
@@ -142,134 +327,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\RoleService.cs",
-              "RelativeDocumentMoniker": "BLL\\RoleService.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\RoleService.cs",
-              "RelativeToolTip": "BLL\\RoleService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAEwB8AAAAzAAAA",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:19:16.761Z"
+              "WhenOpened": "2024-10-13T14:51:33.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAADwv28AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:15:05.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T15:05:17.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Jwt.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Security\\Jwt.cs",
-              "RelativeDocumentMoniker": "Security\\Jwt.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Security\\Jwt.cs",
-              "RelativeToolTip": "Security\\Jwt.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:19:20.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "Controller\\UserController.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\UserController.cs",
-              "RelativeToolTip": "Controller\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:17:11.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\RoleController.cs",
-              "RelativeDocumentMoniker": "Controller\\RoleController.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Controller\\RoleController.cs",
-              "RelativeToolTip": "Controller\\RoleController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:19:42.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\UserRepository.cs",
-              "RelativeToolTip": "DAL\\UserRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:03:21.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\RoleRepository.cs",
-              "RelativeToolTip": "DAL\\RoleRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:18:35.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrabalhoBackEnd",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\TrabalhoBackEnd.csproj",
-              "RelativeDocumentMoniker": "TrabalhoBackEnd.csproj",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\TrabalhoBackEnd.csproj",
-              "RelativeToolTip": "TrabalhoBackEnd.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T16:50:02.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\UserService.cs",
-              "ToolTip": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\BLL\\UserService.cs",
-              "RelativeToolTip": "BLL\\UserService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwBQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:34:00.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Responses\\UserResponse.cs",
               "RelativeDocumentMoniker": "Models\\Responses\\UserResponse.cs",
@@ -281,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "SortDir.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\SortDir.cs",
               "RelativeDocumentMoniker": "Models\\SortDir.cs",
@@ -293,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Responses\\LoginResponse.cs",
               "RelativeDocumentMoniker": "Models\\Responses\\LoginResponse.cs",
@@ -305,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "LoginRequests.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Requests\\LoginRequests.cs",
               "RelativeDocumentMoniker": "Models\\Requests\\LoginRequests.cs",
@@ -317,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "UpdateUserRequests.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Requests\\UpdateUserRequests.cs",
               "RelativeDocumentMoniker": "Models\\Requests\\UpdateUserRequests.cs",
@@ -329,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "CreateUserRequests.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Requests\\CreateUserRequests.cs",
               "RelativeDocumentMoniker": "Models\\Requests\\CreateUserRequests.cs",
@@ -341,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Errors\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Errors\\NotFoundException.cs",
@@ -353,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "RoleResponse.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Responses\\RoleResponse.cs",
               "RelativeDocumentMoniker": "Models\\Responses\\RoleResponse.cs",
@@ -365,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "CreateRoleRequests.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\Models\\Requests\\CreateRoleRequests.cs",
               "RelativeDocumentMoniker": "Models\\Requests\\CreateRoleRequests.cs",
@@ -377,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ProjectDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Theo Nicoleli\\Desktop\\api-dotnet\\TrabalhoBackEnd\\DAL\\ProjectDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\ProjectDbContext.cs",

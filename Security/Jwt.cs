@@ -1,13 +1,13 @@
-﻿using System;
-using System.IdentityModel.Tokens.Jwt;
+﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
+using TrabalhoBackEnd.ISecurity;
 using static TrabalhoBackEnd.Models.Users;
 
 namespace TrabalhoBackEnd.Security
 {
-    public class Jwt
+    public class Jwt : IJwtService
     {
         private readonly string _secret;
         private readonly string _issuer;

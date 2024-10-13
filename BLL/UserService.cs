@@ -1,20 +1,20 @@
 ﻿using static TrabalhoBackEnd.Models.Users;
-using TrabalhoBackEnd.DAL;
 using TrabalhoBackEnd.Errors;
 using TrabalhoBackEnd.Models.Responses;
 using TrabalhoBackEnd.Models;
-using TrabalhoBackEnd.Security;
+using TrabalhoBackEnd.IDAL;
+using TrabalhoBackEnd.ISecurity;
 
 namespace TrabalhoBackEnd.BLL
 {
     public class UserService
     {
-        private readonly UserRepository _userRepository;
-        private readonly RoleRepository _roleRepository;
-        private readonly Jwt _jwt;
+        private readonly IUserRepository _userRepository;
+        private readonly IRoleRepository _roleRepository;
+        private readonly IJwtService _jwt; 
         private readonly ILogger<UserService> _log;
 
-        public UserService(UserRepository userRepository, RoleRepository roleRepository, Jwt jwt, ILogger<UserService> log)
+        public UserService(IUserRepository userRepository, IRoleRepository roleRepository, IJwtService jwt, ILogger<UserService> log)
         {
             _userRepository = userRepository;
             _roleRepository = roleRepository;
@@ -49,6 +49,19 @@ namespace TrabalhoBackEnd.BLL
                     throw new BadRequestException("Invalid sort dir!");
             }
         }
+        public User Update(long id, string name)
+        {
+            var user = _userRepository.FindById(id);
+            if (user == null)
+                throw new NotFoundException($"Usuário {id} não encontrado!");
+
+            if (user.Name == name)
+                return null;
+
+            user.Name = name;
+            return _userRepository.Save(user);
+        }
+
 
         public User FindByIdOrNull(long id)
         {
@@ -69,19 +82,6 @@ namespace TrabalhoBackEnd.BLL
 
             _userRepository.Delete(user);
             return user;
-        }
-
-        public User Update(long id, string name)
-        {
-            var user = _userRepository.FindById(id);
-            if (user == null)
-                throw new NotFoundException($"Usuário {id} não encontrado!");
-
-            if (user.Name == name)
-                return null;
-
-            user.Name = name;
-            return _userRepository.Save(user);
         }
 
         public bool AddRole(long id, string roleName)

@@ -1,13 +1,13 @@
 ﻿using static TrabalhoBackEnd.Models.Roles;
-using TrabalhoBackEnd.DAL;
+using TrabalhoBackEnd.IDAL;
 
 namespace TrabalhoBackEnd.BLL
 {
     public class RoleService
     {
-        private readonly RoleRepository _roleRepository;
+        private readonly IRoleRepository _roleRepository;
 
-        public RoleService(RoleRepository roleRepository)
+        public RoleService(IRoleRepository roleRepository)
         {
             _roleRepository = roleRepository;
         }

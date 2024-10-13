@@ -1,8 +1,9 @@
-﻿using static TrabalhoBackEnd.Models.Roles;
+﻿using TrabalhoBackEnd.IDAL;
+using static TrabalhoBackEnd.Models.Roles;
 
 namespace TrabalhoBackEnd.DAL
 {
-    public class RoleRepository
+    public class RoleRepository : IRoleRepository
     {
         private readonly ProjectDbContext _context;
 

@@ -7,6 +7,8 @@ using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using TrabalhoBackEnd.ISecurity;  // Certifique-se de que está importando a interface correta
+using TrabalhoBackEnd.IDAL;  // Certifique-se de que está importando as interfaces corretas
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -46,12 +48,10 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddScoped<UserRepository>();
-builder.Services.AddScoped<RoleRepository>();
-builder.Services.AddScoped<UserService>();
-builder.Services.AddScoped<RoleService>();
-
-builder.Services.AddSingleton<Jwt>(sp =>
+// Registra as interfaces e implementações dos repositórios e JWT
+builder.Services.AddScoped<IUserRepository, UserRepository>();  // IUserRepository e implementação
+builder.Services.AddScoped<IRoleRepository, RoleRepository>();  // IRoleRepository e implementação
+builder.Services.AddScoped<IJwtService, Jwt>(sp =>
 {
     var configuration = sp.GetRequiredService<IConfiguration>();
     var secret = configuration["Jwt:Secret"];
@@ -60,6 +60,9 @@ builder.Services.AddSingleton<Jwt>(sp =>
     var expiration = int.Parse(configuration["Jwt:ExpirationMinutes"]);
     return new Jwt(secret, issuer, audience, expiration);
 });
+
+builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<RoleService>();
 
 builder.Services.AddAuthentication(options =>
 {
