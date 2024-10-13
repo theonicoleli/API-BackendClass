@@ -24,9 +24,6 @@ namespace TrabalhoBackEnd.Security
 
         public string CreateToken(User user)
         {
-
-            Console.WriteLine($"Secret key: {_secret}");
-
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secret));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
